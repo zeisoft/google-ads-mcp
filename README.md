@@ -235,7 +235,7 @@ Google Ads is Google’s advertising platform for search, display, YouTube, and 
 
 The reason to read Google Ads through HeyMetra rather than through a server that only knows Google Ads is everything else it can answer in the same breath:
 
-**Ads** — **Google Ads**
+**Ads** — **Google Ads** · [Meta](https://github.com/zeisoft/meta-ads-mcp)
 
 **Analytics** — [Google Analytics 4](https://github.com/zeisoft/google-analytics-4-mcp) · [Google Search Console](https://github.com/zeisoft/google-search-console-mcp) · [PostHog](https://github.com/zeisoft/posthog-mcp)
 
